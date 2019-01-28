@@ -1,5 +1,7 @@
-package datacenter_api
+package main
+
+import "fmt"
 
 func main() {
-	println("test")
+	fmt.Println("test")
 }
